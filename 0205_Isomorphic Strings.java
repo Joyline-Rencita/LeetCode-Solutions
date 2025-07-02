@@ -5,6 +5,8 @@ Example 1:
 Input: s = "egg", t = "add"
 Output: true
 
+    CODE :
+
 class Solution {
     public boolean isIsomorphic(String s, String t) {
     if(s.length() != t.length()) return false;
