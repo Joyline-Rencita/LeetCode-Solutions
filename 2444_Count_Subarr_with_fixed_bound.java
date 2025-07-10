@@ -11,6 +11,7 @@ Constraints:
 2 <= nums.length <= 105 ,       1 <= nums[i], minK, maxK <= 106
 
 Solution : 
+
 class Solution {
     public long countSubarrays(int[] nums, int minK, int maxK) {
         long ans = 0;                                                  // Initialize the count of valid subarrays to 0
