@@ -1,4 +1,5 @@
 class Solution {
+    
     private Map<List<Integer>, Boolean> f = new HashMap<>();
     private String s1;
     private String s2;
