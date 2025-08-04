@@ -13,6 +13,7 @@ class Solution {
             ans += pizzas[i];
             i -= 2;
         }
+
         return ans;
     }
 }
